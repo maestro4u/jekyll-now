@@ -13,7 +13,7 @@ date:   2015-01-28 17:30:00
 
 [백투더맥](http://macnews.tistory.com)
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+`Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).`
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
